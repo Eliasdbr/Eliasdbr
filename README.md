@@ -12,3 +12,10 @@ But today I am about to begin my professional career at Web Full-Stack Developme
 
 <img src="https://github.com/coherencez/tech-logos/raw/master/jslogo.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/html5.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/css3.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/react.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/redux.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/nodejs.svg" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/express.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/postgres.png" height="40"><img src="https://github.com/coherencez/tech-logos/raw/master/git.png" height="40">
 
+### Soft Skills:
+
+- Team Work
+- Plafinication
+- Logical thinking
+- Problem Solving
+- Abstract concepts visualization.

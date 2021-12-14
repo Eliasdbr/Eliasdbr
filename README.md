@@ -23,3 +23,7 @@ But today I am about to begin my professional career at Web Full-Stack Developme
 ### Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasdbr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasdbr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact:
+
+[<img src="https://img.icons8.com/material/96/888888/email-sign.png"/>](mailto:eliasdbr@outlook.com)[<img src="https://img.icons8.com/material/96/888888/linkedin--v1.png"/>](https://www.linkedin.com/in/eliasdbr/)

@@ -1,4 +1,4 @@
-<img src="https://github.com/Eliasdbr/Eliasdbr/blob/e0ca46f930e9009e55d0b5034f47dfc92c06f4d6/Portada%20en%20Github.png" alt="Banner"/>
+<img src="https://github.com/Eliasdbr/Eliasdbr/blob/main/Portada%20LinkedIn.png" alt="Banner"/>
 
 ### `> Hello World!_`
 
